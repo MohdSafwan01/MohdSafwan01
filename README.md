@@ -8,9 +8,8 @@
 - 🎓 I'm a **Computer Engineering (Data Science)** student from **AIKTC, Navi Mumbai**.  
 - 🧠 Currently learning **FastAPI, React.js, and Data-Driven Systems**.  
 - 🧩 I enjoy **building full-stack projects** and creating efficient backend architectures.  
-- 🏆 Participated in **7+ Hackathons** (including Smart India Hackathon Winning Team).  
-- 🧑‍🏫 Passionate about **explaining code in Munna Bhai style 😄** — simple and unforgettable.  
-- 💬 Ask me about **Web Development, APIs, or Machine Learning basics**.  
+- 🏆 Leader in **7+ Hackathons** (including internal Smart India Hackathon Winning Team). 
+- 💬 Ask me about **Web Development, Stats, or Machine Learning basics**.  
 - 📫 Reach me at: [safwanirf2005@gmail.com](mailto:safwanirf2005@gmail.com)  
 
 ---
