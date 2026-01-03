@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me  
 - 🎓 I'm a **Computer Engineering (Data Science)** student from **AIKTC, Navi Mumbai**.  
-- 🧠 Currently learning **FastAPI, React.js, and Data-Driven Systems**.  
+- 🧠 Currently learning **Python, React.js, and Data-Driven Systems**.  
 - 🧩 I enjoy **building full-stack projects** and creating efficient backend architectures.  
 - 🏆 Leader in **7+ Hackathons** (including internal Smart India Hackathon Winning Team). 
 - 💬 Ask me about **Web Development, Stats, or Machine Learning basics**.  
