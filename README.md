@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=700&center=true&width=700&color=58A6FF&lines=Hey+there!+I'm+Mohd+Safwan+👋; Full-Stack+Developer+%7C+Data+Science+Student;7x+Hackathon+Leader+%7C+SIH+Winner+🏆;Building+Data-Driven+Solutions+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=700&center=true&width=700&color=58A6FF&lines=Hey+there!+I'm+Mohd+Safwan+👋;Full-Stack+Developer+%7C+Data+Science+Student;7x+Hackathon+Leader+%7C+SIH+Winner+🏆;Building+Data-Driven+Solutions+🚀" />
 </div>
 
 <div align="center">
